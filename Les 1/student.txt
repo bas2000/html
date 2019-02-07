@@ -1,0 +1,3 @@
+student name: Bas van der Vegt
+student number: 617342
+student class: INF1FB
